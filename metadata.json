@@ -1,0 +1,8 @@
+{
+  "name": "Cardif Pilot｜法巴智慧保險服務導覽助手",
+  "description": "2026 法國巴黎人壽校園黑客松競賽原型：依官方資料提供服務導覽、辦理步驟與資料來源（非官方產品）。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
